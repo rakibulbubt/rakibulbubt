@@ -11,7 +11,7 @@ Throughout my career as a front-end developer, I've emphasized the importance of
 
 👨‍💻 Skills & Experiance:
 
-✅ REACT
+✅ REACT <br>
 ✅ JavaScript
 ✅ PHP
 ✅ HTML5 / CSS3 / SASS / Bootstrap
