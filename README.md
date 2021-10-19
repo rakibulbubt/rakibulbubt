@@ -42,4 +42,4 @@ Throughout my career as a front-end developer, I've emphasized the importance of
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rakibulbubt)  
 
-![Profile views](https://gpvc.arturio.dev/rakibulbubt)  
+<!-- ![Profile views](https://gpvc.arturio.dev/rakibulbubt)   -->
