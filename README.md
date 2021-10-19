@@ -36,7 +36,7 @@ Throughout my career as a front-end developer, I've emphasized the importance of
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibulbubt&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibulbubt)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibulbubt)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/rakibulbubt)  
 
