@@ -6,7 +6,7 @@
 🎤 Like to share my knowledge
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=rakibulbubt&color=brightgreen)
 
 
 
