@@ -21,6 +21,8 @@ Throughout my career as a front-end developer, I've emphasized the importance of
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Python /  Django
 
+🏡 Working <hr>
+
 - 🔭 I’m currently working on a capstone project in my University 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
