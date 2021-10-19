@@ -1,4 +1,4 @@
-![Web Developer](https://ibb.co/jfSLczq)
+![Web Developer](https://github.com/rakibulbubt/personalimage/blob/main/Rakib%20git%20banner.jpg?raw=true)
 
 ## Hi there 👋, I'm Rakibul Hasan
 👑 I am Web Developer <br>
