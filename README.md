@@ -2,19 +2,19 @@
 
 
 
-## Hi there 👋, I'm Rakibul Hasan
-👑 I am Web Developer
-🖊️ Love to write code
+## Hi there 👋, I'm Rakibul Hasan <hr>
+👑 I am Web Developer <br>
+🖊️ Love to write code <br>
 🎤 Like to share my knowledge
 
 Throughout my career as a front-end developer, I've emphasized the importance of scaleable and well-documented code. I enjoy working collaboratively but can also run with projects on my own.
 
-👨‍💻 Skills & Experiance:
+👨‍💻 Skills & Experiance: <hr>
 
-✅ REACT <br>
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ REACT <br> <br>
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Python /  Django
 
 - 🔭 I’m currently working on a capstone project in my University 
